@@ -13,6 +13,7 @@ RESILIENT PATTERNS
 Design Pattern Review
 - https://www.amazon.com/gp/product/0321127420/ref=dbs_a_def_rwt_bibl_vppi_i1, 
 - https://martinfowler.com/eaaCatalog/index.html 
+- https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/object-oriented-design-patterns-in-c-sharp?autoplay=true&u=2113185 
 
 Effective presentation learning course
 - https://learn.epam.com/detailsPage?id=dd259f3e-fbb9-427f-8a55-fa1987792d08;
