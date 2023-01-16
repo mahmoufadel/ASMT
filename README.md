@@ -9,6 +9,7 @@ RESTful Web API
 RESILIENT PATTERNS
 - Not mentioned Cache, Fallback, Rate-limit abd Buklhead Isolation RESILIENT POLICIES.
 - https://subscription.packtpub.com/book/application-development/9781788470049/1
+- https://www.linkedin.com/learning/azure-microservices-with-dot-net-core-for-developers/add-resiliency-to-the-products-microservice-with-polly?autoplay=true&u=2113185
 
 Design Pattern Review
 - https://www.amazon.com/gp/product/0321127420/ref=dbs_a_def_rwt_bibl_vppi_i1, 
