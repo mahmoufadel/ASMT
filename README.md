@@ -8,7 +8,7 @@ RESTful Web API
 
 RESILIENT PATTERNS
 - Not mentioned Cache, Fallback, Rate-limit abd Buklhead Isolation RESILIENT POLICIES.
-- Packet Book for Polly .
+- https://subscription.packtpub.com/book/application-development/9781788470049/1
 
 Design Pattern Review
 - https://www.amazon.com/gp/product/0321127420/ref=dbs_a_def_rwt_bibl_vppi_i1, 
