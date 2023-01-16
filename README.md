@@ -18,3 +18,4 @@ Design Pattern Review
 
 Effective presentation learning course
 - https://learn.epam.com/detailsPage?id=dd259f3e-fbb9-427f-8a55-fa1987792d08;
+- https://www.linkedin.com/learning/public-speaking-for-non-native-english-speakers/public-speaking-for-non-native-english-speakers?autoplay=true&u=2113185 
